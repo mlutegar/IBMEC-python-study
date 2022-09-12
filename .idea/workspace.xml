@@ -4,25 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="311a48ba-ec58-4690-865f-0149c94a6412" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios extras/Funcoes/Q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios extras/Funcoes/Q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios extras/Funcoes/Q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios extras/Funcoes/Q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios extras/Funcoes/Q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios extras/Funcoes/Q6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios extras/Funcoes/Q7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IBMEC.iml" afterDir="false" />
+    <list default="true" id="311a48ba-ec58-4690-865f-0149c94a6412" name="Changes" comment="feat: complementary functions exercises">
+      <change afterPath="$PROJECT_DIR$/Conceitos/Funcoes/Infuncao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conceitos/Funcoes/Recursividade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conceitos/Funcoes/Recursividade_fatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conceitos/Funcoes/Return_2values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conceitos/Módulos e pacotes/Modulos/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conceitos/Módulos e pacotes/Modulos/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Brasil/Estrutura sequencial/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Brasil/Estrutura sequencial/Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Brasil/Funcoes/Q14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -32,6 +31,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,12 +49,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/OneDrive/Documentos/IdeaProjects/IBMEC/Conceitos/Funcoes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Documentos\IdeaProjects\IBMEC\Conceitos\Funcoes" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,8 +69,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662911916703</updated>
-      <workItem from="1662911919235" duration="7907000" />
+      <workItem from="1662911919235" duration="8412000" />
+      <workItem from="1662925800411" duration="254000" />
+      <workItem from="1662987069664" duration="6207000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: complementary functions exercises">
+      <created>1662925478159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662925478159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,13 +97,23 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: complementary functions exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: complementary functions exercises" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IBMEC$Q3.coverage" NAME="Q3 Coverage Results" MODIFIED="1662918593577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
     <SUITE FILE_PATH="coverage/IBMEC$Q6.coverage" NAME="Q6 Coverage Results" MODIFIED="1662924294121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
-    <SUITE FILE_PATH="coverage/IBMEC$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1662915300582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
-    <SUITE FILE_PATH="coverage/IBMEC$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1662915640540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
-    <SUITE FILE_PATH="coverage/IBMEC$Q5.coverage" NAME="Q5 Coverage Results" MODIFIED="1662923728995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
+    <SUITE FILE_PATH="coverage/IBMEC$Return_2values.coverage" NAME="Return_2values Coverage Results" MODIFIED="1662991518921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conceitos/Funcoes" />
+    <SUITE FILE_PATH="coverage/IBMEC$Infuncao.coverage" NAME="Infuncao Coverage Results" MODIFIED="1662989099383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conceitos/Funcoes" />
+    <SUITE FILE_PATH="coverage/IBMEC$Q14.coverage" NAME="Q14 Coverage Results" MODIFIED="1662988509590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Brasil/Funcoes" />
     <SUITE FILE_PATH="coverage/IBMEC$Q7.coverage" NAME="Q7 Coverage Results" MODIFIED="1662925106165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
     <SUITE FILE_PATH="coverage/IBMEC$Q4.coverage" NAME="Q4 Coverage Results" MODIFIED="1662923209004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
+    <SUITE FILE_PATH="coverage/IBMEC$Recursividade_fatorial.coverage" NAME="Recursividade_fatorial Coverage Results" MODIFIED="1662992689307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conceitos/Funcoes" />
+    <SUITE FILE_PATH="coverage/IBMEC$Recursividade.coverage" NAME="Recursividade Coverage Results" MODIFIED="1662991102548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conceitos/Funcoes" />
+    <SUITE FILE_PATH="coverage/IBMEC$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1662987466675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Brasil/Estrutura sequencial" />
+    <SUITE FILE_PATH="coverage/IBMEC$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1662987637093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Brasil/Estrutura sequencial" />
+    <SUITE FILE_PATH="coverage/IBMEC$Q5.coverage" NAME="Q5 Coverage Results" MODIFIED="1662923728995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios extras/Funcoes" />
+    <SUITE FILE_PATH="coverage/IBMEC$main.coverage" NAME="main Coverage Results" MODIFIED="1662992589268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conceitos/Módulos e pacotes/Modulos" />
   </component>
 </project>
